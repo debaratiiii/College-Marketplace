@@ -1,6 +1,6 @@
 # CampusCart
 
-A modern web application that enables college students to buy and sell academic resources and student essentials within their campus community.
+CampusCart is a modern web application that enables college students to buy and sell academic resources and student essentials within their campus community.
 
 ## Overview
 
