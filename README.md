@@ -39,6 +39,7 @@ College Marketplace is designed to provide a simple and convenient platform wher
 ## Current Status
 
 Frontend completed ✅
+
 The current version includes a fully functional frontend with responsive pages, product browsing, search, category filtering, and mock product data.
 
 Backend development is currently in progress.
