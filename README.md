@@ -4,7 +4,7 @@ CampusCart is a modern web application that enables college students to buy and 
 
 ## Overview
 
-College Marketplace is designed to provide a simple and convenient platform where students can buy and sell items such as books, notes, calculators, and electronics within their college. The platform aims to make campus transactions easier, faster, and more affordable.
+CampusCart is designed to provide a simple and convenient platform where students can buy and sell items such as books, notes, calculators, and electronics within their college. The platform aims to make campus transactions easier, faster, and more affordable.
 
 ## Features
 
